@@ -7,9 +7,11 @@ My components used are listed in BOM.md
  This is an image of the 3d view of the PCB
 
 
- <img width="684" height="299" alt="image" src="https://github.com/user-attachments/assets/57521186-ade6-4ead-8bfb-76745852437d" />
 
 This is an image of the PCB Gerber files!
+
+ <img width="684" height="299" alt="image" src="https://github.com/user-attachments/assets/57521186-ade6-4ead-8bfb-76745852437d" />
+
 
 This is my first pcb ever!
 
