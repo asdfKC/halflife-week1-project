@@ -9359,6 +9359,42 @@
 		(layer "Edge.Cuts")
 		(uuid "86e2d3ba-c776-45bd-a589-c75805d71e7c")
 	)
+	(gr_text "Email me@kushjoshi.me for help!"
+		(at 89.5 42.75 0)
+		(layer "F.SilkS")
+		(uuid "3b7dc434-22f1-4774-bb2d-4e4cadd237a2")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Kush's Cool Macropad Project"
+		(at 90 39.5 0)
+		(layer "F.SilkS")
+		(uuid "7e34d4ed-b42b-485a-b52a-1486389452a0")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "kushjoshi.me\n"
+		(at 90.75 41.5 0)
+		(layer "F.SilkS")
+		(uuid "6fbbd0e1-8e28-431a-94cc-702d26e701f0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
 	(segment
 		(start 88.04 15.42)
 		(end 82.250101 15.42)
