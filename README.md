@@ -41,3 +41,5 @@ A pretty basic and simple plate is included in the plate/ directory. It has 18 c
 <img width="1082" height="457" alt="image" src="https://github.com/user-attachments/assets/d48d8446-62fb-4e6d-9b3c-2df1205e1ee5" />
 
 I provided an STL file in the plate/ directory called plate.stl.
+
+<img width="689" height="256" alt="image" src="https://github.com/user-attachments/assets/386fa20f-ca0e-4a61-b1a2-2ef31c288db3" />
