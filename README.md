@@ -21,3 +21,11 @@ It starts at GPIO0
 17 = switch 18
 
 The middle goes in numerical order.
+
+
+##Switch plate :D
+
+A pretty basic and simple plate is included in the plate/ directory. It has 18 cutouts that match the PCB, each the size of a standard MX switch cutout. The outline is in plate/Plates/plate-Edge-Cuts.dxf
+
+<img width="1082" height="457" alt="image" src="https://github.com/user-attachments/assets/d48d8446-62fb-4e6d-9b3c-2df1205e1ee5" />
+
