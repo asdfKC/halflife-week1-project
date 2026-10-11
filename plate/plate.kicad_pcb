@@ -51,7 +51,7 @@
 		(capping no)
 		(filling no)
 		(pcbplotparams
-			(layerselection 0x00000000_00000000_55555555_5755f5ff)
+			(layerselection 0x00000000_00000000_55555555_57555550)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
 			(disableapertmacros no)
 			(usegerberextensions no)
@@ -80,467 +80,22 @@
 			(sketchdnponfab yes)
 			(crossoutdnponfab yes)
 			(subtractmaskfromsilk no)
-			(outputformat 1)
+			(outputformat 3)
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "Gerbers/")
+			(outputdirectory "Plates/")
 		)
 	)
 	(footprint "plate:Untitled"
 		(layer "F.Cu")
-		(uuid "0fd54484-5305-45cf-80a3-ade47e5cd176")
-		(at 88.04 15.42)
-		(property "Reference" "SW3"
-			(at 0 -0.5 0)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "5d39e5b5-416a-4694-a249-18147a878add")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.1)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 0 1 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "2d3c0310-af4c-46c2-bfa0-a5df0e72090e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "8f346fd6-5e46-462e-8dd1-1ab2e1cfa8f8")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "e9fbedce-fb42-4db4-a611-eca30e2f2df4")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(path "/021c89ff-3e27-46e7-8bfc-6b483646bd12")
-		(sheetname "/")
-		(sheetfile "macropad.kicad_sch")
-		(attr smd)
-		(duplicate_pad_numbers_are_jumpers no)
-		(fp_rect
-			(start -7 -7)
-			(end 7 7)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(fill no)
-			(layer "Edge.Cuts")
-			(uuid "f3934e5d-9da1-49a2-b4ab-2cb936ddc709")
-		)
-		(embedded_fonts no)
-	)
-	(footprint "plate:Untitled"
-		(layer "F.Cu")
-		(uuid "1c5e7fe0-0d9b-4342-8561-5a6192fafe97")
-		(at 49.79 36.17)
-		(property "Reference" "SW7"
-			(at 0 -0.5 0)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "fce76038-9acb-4e66-81ea-9feaa53d6575")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.1)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 0 1 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "a60da092-285f-44c2-879b-f0473735d975")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "a21542d7-daaa-40d4-82e6-d3ef66556d30")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b50065c8-bd3d-499b-8532-08f9a76bab0c")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(path "/ec178aa0-51ce-48b5-8594-937e8690703f")
-		(sheetname "/")
-		(sheetfile "macropad.kicad_sch")
-		(attr smd)
-		(duplicate_pad_numbers_are_jumpers no)
-		(fp_rect
-			(start -7 -7)
-			(end 7 7)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(fill no)
-			(layer "Edge.Cuts")
-			(uuid "4d8e28ee-5cc3-4439-9f29-1a04f3437635")
-		)
-		(embedded_fonts no)
-	)
-	(footprint "plate:Untitled"
-		(layer "F.Cu")
-		(uuid "4d19a218-3039-4a4f-b93a-72b8ceaf3893")
-		(at 148.015 51.5)
-		(property "Reference" "SW18"
-			(at 0 -0.5 0)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "9cc61f56-9bac-444f-8b69-6664dac832ab")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.1)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 0 1 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "8e3ab76f-46ba-472f-97f0-12134cb928d8")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "7b1f19da-74f3-427b-a5a2-13286b244f5b")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "5e134beb-ae61-4d21-ba79-3f98da82a6fd")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(path "/2c0b78ac-8703-4fae-b1f6-cfdc6eef759f")
-		(sheetname "/")
-		(sheetfile "macropad.kicad_sch")
-		(attr smd)
-		(duplicate_pad_numbers_are_jumpers no)
-		(fp_rect
-			(start -7 -7)
-			(end 7 7)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(fill no)
-			(layer "Edge.Cuts")
-			(uuid "794c171e-d5d4-49c8-b141-240227f735ce")
-		)
-		(embedded_fonts no)
-	)
-	(footprint "plate:Untitled"
-		(layer "F.Cu")
-		(uuid "5644ed69-15e7-4eed-9603-afa3d3c1996e")
-		(at 132.925 51.5)
-		(property "Reference" "SW16"
-			(at 0 -0.5 0)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "34b10b20-6c97-464b-a4bd-6412617bc690")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.1)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 0 1 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "5e7e3ce3-321e-48d2-90a1-034b7c8c4238")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "461cb9c9-b2a8-41dd-8678-9c65dfecc083")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "bbe790dd-34ea-4f41-b97c-cbb04e89145a")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(path "/d66ff9ac-5e2f-4b67-9a50-3257e0f98cc5")
-		(sheetname "/")
-		(sheetfile "macropad.kicad_sch")
-		(attr smd)
-		(duplicate_pad_numbers_are_jumpers no)
-		(fp_rect
-			(start -7 -7)
-			(end 7 7)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(fill no)
-			(layer "Edge.Cuts")
-			(uuid "eb686a5e-aadf-479f-a79c-0262a45211a0")
-		)
-		(embedded_fonts no)
-	)
-	(footprint "plate:Untitled"
-		(layer "F.Cu")
-		(uuid "672bb96d-4e09-410d-aba0-70070e5b8278")
-		(at 117.835 36.41)
-		(property "Reference" "SW13"
-			(at 0 -0.5 0)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "898aacce-6e72-46f6-87e1-c3dd6371a261")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.1)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 0 1 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "73651ee5-112a-463a-8cf9-c0eb5740a7b7")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b3698165-63fd-411e-a1a3-97365c171b5a")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "175a73be-5731-450e-8588-1d32722ca7bc")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(path "/f39bfb2c-ed7e-435d-8eaa-27ed67590281")
-		(sheetname "/")
-		(sheetfile "macropad.kicad_sch")
-		(attr smd)
-		(duplicate_pad_numbers_are_jumpers no)
-		(fp_rect
-			(start -7 -7)
-			(end 7 7)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(fill no)
-			(layer "Edge.Cuts")
-			(uuid "69978d29-a6b3-450b-ad31-2ebbbc9a4424")
-		)
-		(embedded_fonts no)
-	)
-	(footprint "plate:Untitled"
-		(layer "F.Cu")
-		(uuid "7939c784-9e3a-4657-807b-06951322c97d")
-		(at 79.97 36.17)
-		(property "Reference" "SW11"
-			(at 0 -0.5 0)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "801c28a9-a64b-4935-9d43-1173e9e653c1")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.1)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 0 1 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "372eadf9-84d8-4ffc-8a20-3533f595be3c")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "41d7c9a4-2e73-4584-add0-9fc03ff70655")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "d0e99e3c-9a5a-41e1-bf01-8bb73dd03c6a")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(path "/7cd4bfc0-1292-4277-98a2-e6b87dc104b7")
-		(sheetname "/")
-		(sheetfile "macropad.kicad_sch")
-		(attr smd)
-		(duplicate_pad_numbers_are_jumpers no)
-		(fp_rect
-			(start -7 -7)
-			(end 7 7)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(fill no)
-			(layer "Edge.Cuts")
-			(uuid "8eb6a02f-1df5-483f-9ce5-b2432209d534")
-		)
-		(embedded_fonts no)
-	)
-	(footprint "plate:Untitled"
-		(layer "F.Cu")
-		(uuid "7bb1d87f-dcf3-45d1-9d56-39fd2f9e40b1")
-		(at 117.835 51.5)
+		(uuid "1a59d624-26ea-4b86-8899-9c10ac9ed50d")
+		(at 161.84 98.82)
 		(property "Reference" "SW14"
 			(at 0 -0.5 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(hide yes)
-			(uuid "ef9dfbb9-b923-437a-aeba-70366103623e")
+			(uuid "96991d1c-616a-4375-ba84-ab74c58f220b")
 			(effects
 				(font
 					(size 1 1)
@@ -552,8 +107,7 @@
 			(at 0 1 0)
 			(unlocked yes)
 			(layer "F.Fab")
-			(hide yes)
-			(uuid "e8f701c8-73f2-4274-a2b5-6244744d65a8")
+			(uuid "6693a00b-7369-4988-b966-ccb1dba27fc3")
 			(effects
 				(font
 					(size 1 1)
@@ -566,7 +120,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "04312b1b-02e0-4740-8348-03a045052e8f")
+			(uuid "db1e382f-ca22-4c4d-8213-8d08d20b68f9")
 			(effects
 				(font
 					(size 1 1)
@@ -579,7 +133,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0836d662-bd05-4ff9-9724-40b0759e6b0b")
+			(uuid "66bbe6bb-2e6a-4dc0-aefc-e29beeba5ad4")
 			(effects
 				(font
 					(size 1 1)
@@ -587,7 +141,6 @@
 				)
 			)
 		)
-		(path "/6929db63-99a4-4f24-ab7c-42c23064218e")
 		(sheetname "/")
 		(sheetfile "macropad.kicad_sch")
 		(attr smd)
@@ -601,390 +154,31 @@
 			)
 			(fill no)
 			(layer "Edge.Cuts")
-			(uuid "b342e4b9-2dae-43b0-a5ee-48fb6f0b402d")
+			(uuid "e547fe14-4d05-4987-9704-23180b35d621")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 2.5 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "8618354b-4b56-4feb-87bf-8d3a92d13194")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
 		)
 		(embedded_fonts no)
 	)
 	(footprint "plate:Untitled"
 		(layer "F.Cu")
-		(uuid "a17ac87c-b9a3-4156-8a6b-88f3a16f2385")
-		(at 79.97 51.26)
-		(property "Reference" "SW12"
-			(at 0 -0.5 0)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "a3268147-6da5-4a0e-8219-f3c2eb3c58d9")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.1)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 0 1 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "d2d46ddf-c812-4546-9751-b29e8402a257")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "55e12ce2-5bcd-4c3a-9072-2fbe805319ce")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "3c6eee30-de11-460f-8b89-d2b30f28eaaf")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(path "/b70a5a5b-7087-4a4c-8e40-f3c770dcf1a7")
-		(sheetname "/")
-		(sheetfile "macropad.kicad_sch")
-		(attr smd)
-		(duplicate_pad_numbers_are_jumpers no)
-		(fp_rect
-			(start -7 -7)
-			(end 7 7)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(fill no)
-			(layer "Edge.Cuts")
-			(uuid "ff5026af-ef1e-444a-bcd6-861a0b2487c8")
-		)
-		(embedded_fonts no)
-	)
-	(footprint "plate:Untitled"
-		(layer "F.Cu")
-		(uuid "ac5611a6-d33d-451b-b633-c2e73570740a")
-		(at 126.29 15.42)
-		(property "Reference" "SW5"
-			(at 0 -0.5 0)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "52156fb5-f059-41e1-8694-1684b20f40f0")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.1)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 0 1 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "e2ba63bd-c9a5-484a-8a6e-4c28f86d3d15")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b60699cd-3811-49a5-a4ae-dd6140365e28")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b5ca044a-1749-4930-98ee-da32cd204f12")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(path "/bf128dac-bba9-4b5c-9431-1126254827d7")
-		(sheetname "/")
-		(sheetfile "macropad.kicad_sch")
-		(attr smd)
-		(duplicate_pad_numbers_are_jumpers no)
-		(fp_rect
-			(start -7 -7)
-			(end 7 7)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(fill no)
-			(layer "Edge.Cuts")
-			(uuid "b799859b-688e-40ca-94a0-3084d67f0fc0")
-		)
-		(embedded_fonts no)
-	)
-	(footprint "plate:Untitled"
-		(layer "F.Cu")
-		(uuid "ae332395-2108-49ae-930f-b6784babfc98")
-		(at 132.925 36.41)
-		(property "Reference" "SW15"
-			(at 0 -0.5 0)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "6244bb44-7ca1-4a20-9858-005a515cfa62")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.1)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 0 1 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "f81199e9-fccb-454e-8e7a-0a65e74fd716")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "938e4cb7-6b4b-4aaa-9da7-a91bb665fe19")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "42c387ce-f39f-4384-9769-f286f252594f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(path "/d638e90e-f05d-492d-8244-9d42554114ce")
-		(sheetname "/")
-		(sheetfile "macropad.kicad_sch")
-		(attr smd)
-		(duplicate_pad_numbers_are_jumpers no)
-		(fp_rect
-			(start -7 -7)
-			(end 7 7)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(fill no)
-			(layer "Edge.Cuts")
-			(uuid "f7dc246b-2d98-47f0-8ab2-398b8bca2470")
-		)
-		(embedded_fonts no)
-	)
-	(footprint "plate:Untitled"
-		(layer "F.Cu")
-		(uuid "bba25db1-14f4-4568-b00f-31294fcf873c")
-		(at 147.79 15.42)
-		(property "Reference" "SW6"
-			(at 0 -0.5 0)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "4c5c5063-0c91-4a58-9341-ced5a625c3e2")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.1)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 0 1 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "e46ef542-56ee-4d54-9860-8ef479e8a885")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "fdd5f72e-324a-4529-9894-3af6308f1321")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "ae34fcc6-a07c-4b47-8c65-65e89acdcc4c")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(path "/a41045d9-34ed-47f2-99d9-4f0aed20a2eb")
-		(sheetname "/")
-		(sheetfile "macropad.kicad_sch")
-		(attr smd)
-		(duplicate_pad_numbers_are_jumpers no)
-		(fp_rect
-			(start -7 -7)
-			(end 7 7)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(fill no)
-			(layer "Edge.Cuts")
-			(uuid "73913860-2892-4946-a7c6-72620f0d9453")
-		)
-		(embedded_fonts no)
-	)
-	(footprint "plate:Untitled"
-		(layer "F.Cu")
-		(uuid "c7a0b6d0-0b57-4513-84aa-d38568c3018f")
-		(at 49.79 51.26)
-		(property "Reference" "SW8"
-			(at 0 -0.5 0)
-			(unlocked yes)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "d650dc81-35b2-4e99-bd69-9559b8a2e176")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.1)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 0 1 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "9d34770c-2617-400b-ac79-061f73875b6b")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "1c8d6a25-8bef-4062-8ee4-4c875e9a4c6c")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "2e48f1ee-e50b-473f-8598-751bf45f98b9")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(path "/9b0aa533-29aa-4563-96b9-cc68226c6a1e")
-		(sheetname "/")
-		(sheetfile "macropad.kicad_sch")
-		(attr smd)
-		(duplicate_pad_numbers_are_jumpers no)
-		(fp_rect
-			(start -7 -7)
-			(end 7 7)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(fill no)
-			(layer "Edge.Cuts")
-			(uuid "3582fe72-68bc-4463-8d8e-c6d0985b2cc4")
-		)
-		(embedded_fonts no)
-	)
-	(footprint "plate:Untitled"
-		(layer "F.Cu")
-		(uuid "ca9e162a-97af-47ba-ab24-fc1f1837e9bb")
-		(at 68.79 15.42)
+		(uuid "36b14b13-936e-4031-8e4f-f2f269752e1d")
+		(at 123.34 60.72)
 		(property "Reference" "SW2"
 			(at 0 -0.5 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(hide yes)
-			(uuid "c7bfdc9d-f260-4943-8b82-a4bd0dd6c009")
+			(uuid "4578729e-3305-4a7f-9750-b60e7fb2b8e1")
 			(effects
 				(font
 					(size 1 1)
@@ -996,8 +190,7 @@
 			(at 0 1 0)
 			(unlocked yes)
 			(layer "F.Fab")
-			(hide yes)
-			(uuid "8dc21a0c-b5b9-4caa-8e6d-04613abea300")
+			(uuid "00810776-2ea0-481f-89e1-23bcfbe32d9d")
 			(effects
 				(font
 					(size 1 1)
@@ -1010,7 +203,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "52f38f7f-709c-4096-8ca4-95aa4f46aea6")
+			(uuid "8142e7f6-1d44-42cd-a719-7047411d0876")
 			(effects
 				(font
 					(size 1 1)
@@ -1023,7 +216,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f9bf778b-5783-410a-986a-d2d1b4090472")
+			(uuid "e9966a8b-06c7-42d1-9014-bd06f1ca35c6")
 			(effects
 				(font
 					(size 1 1)
@@ -1031,7 +224,6 @@
 				)
 			)
 		)
-		(path "/7a4cda07-d9e9-42cb-945a-28dc21e9185f")
 		(sheetname "/")
 		(sheetfile "macropad.kicad_sch")
 		(attr smd)
@@ -1045,20 +237,114 @@
 			)
 			(fill no)
 			(layer "Edge.Cuts")
-			(uuid "07439f8b-0ac2-4f35-8766-858246a18068")
+			(uuid "52cae325-3e0c-4511-83af-d6985d3e437e")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 2.5 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "621852f4-8d4a-4c3e-87f1-69f136f55f76")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
 		)
 		(embedded_fonts no)
 	)
 	(footprint "plate:Untitled"
 		(layer "F.Cu")
-		(uuid "d85e37df-ee71-4611-bd25-5d3e9582401a")
-		(at 49.85 15.46)
+		(uuid "3c858c55-6777-4073-b97b-909a6df0e5e3")
+		(at 180.84 98.82)
+		(property "Reference" "SW16"
+			(at 0 -0.5 0)
+			(unlocked yes)
+			(layer "F.SilkS")
+			(uuid "51958f41-f071-4446-8c66-ed97f224f141")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 0 1 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "a76bb0df-0c35-4067-9fa9-9c7c9960eb69")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "222f7c69-cb0b-4aa7-84de-100f62fc1b99")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d17c51dc-6881-4c4e-bcdc-5bbdd2dad0fd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(sheetname "/")
+		(sheetfile "macropad.kicad_sch")
+		(attr smd)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_rect
+			(start -7 -7)
+			(end 7 7)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "Edge.Cuts")
+			(uuid "0d82f338-b976-406f-a817-5beff6346f1c")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 2.5 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "6c2f3cfd-549d-4d3a-bafb-e3375914fa8c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(footprint "plate:Untitled"
+		(layer "F.Cu")
+		(uuid "47957bbe-9bc8-4c86-ac16-c7f53355858b")
+		(at 104.4 60.76)
 		(property "Reference" "SW1"
 			(at 0 -0.5 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(hide yes)
-			(uuid "23bb4908-bc43-414e-8649-889ea8d93d1f")
+			(uuid "88249fc8-48cd-4657-8ab3-5e14a6a294b3")
 			(effects
 				(font
 					(size 1 1)
@@ -1070,8 +356,7 @@
 			(at 0 1 0)
 			(unlocked yes)
 			(layer "F.Fab")
-			(hide yes)
-			(uuid "05bcbb74-cdb2-4479-9cfa-603174386baa")
+			(uuid "9f2d7a3f-32ce-4fc7-9ea0-9fc7faa0428a")
 			(effects
 				(font
 					(size 1 1)
@@ -1084,7 +369,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4e50c85e-612a-44f8-b891-b7ca1a8b3f53")
+			(uuid "bd0575b4-1f51-444d-b249-d6ce7ba33cf5")
 			(effects
 				(font
 					(size 1 1)
@@ -1097,7 +382,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "94d22cbd-fff0-42f6-be0f-15887196cebb")
+			(uuid "fbc6cbdc-35e5-4bdc-bc30-73b0c074c01d")
 			(effects
 				(font
 					(size 1 1)
@@ -1105,7 +390,6 @@
 				)
 			)
 		)
-		(path "/fc483c76-b0c3-424a-abec-1d8a391509d4")
 		(sheetname "/")
 		(sheetfile "macropad.kicad_sch")
 		(attr smd)
@@ -1119,20 +403,31 @@
 			)
 			(fill no)
 			(layer "Edge.Cuts")
-			(uuid "013268d0-50b7-44e7-98d8-db7bd3182cd5")
+			(uuid "35d2981e-3f26-45bb-adbc-acbf241a26ec")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 2.5 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "d9636c0f-9fb8-42b7-852e-44aea991963d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
 		)
 		(embedded_fonts no)
 	)
 	(footprint "plate:Untitled"
 		(layer "F.Cu")
-		(uuid "de4163ff-e202-4422-88f2-8223cc8a36d2")
-		(at 64.88 36.17)
-		(property "Reference" "SW9"
+		(uuid "4c828741-abff-4acc-ae2e-69a0241e25c9")
+		(at 104.4 79.77)
+		(property "Reference" "SW7"
 			(at 0 -0.5 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(hide yes)
-			(uuid "3379983a-7909-4479-95bb-f204acb42704")
+			(uuid "f14e44cb-88d7-4586-b2ab-5f1ca48ed9a1")
 			(effects
 				(font
 					(size 1 1)
@@ -1144,8 +439,7 @@
 			(at 0 1 0)
 			(unlocked yes)
 			(layer "F.Fab")
-			(hide yes)
-			(uuid "f6effb56-9a4a-4f49-b6c7-0fbf2934047d")
+			(uuid "4aca3c9b-1ec9-4c9d-a393-15d703a60673")
 			(effects
 				(font
 					(size 1 1)
@@ -1158,7 +452,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2c80f5d2-7866-4f4e-9c72-5fafc69ebc55")
+			(uuid "eb637813-7433-47fd-9447-198d9a8c09d3")
 			(effects
 				(font
 					(size 1 1)
@@ -1171,7 +465,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "185e9a85-ef3c-4601-a27c-d322f3b1306e")
+			(uuid "79717447-b095-4aca-9acd-fbfe62beace8")
 			(effects
 				(font
 					(size 1 1)
@@ -1179,7 +473,6 @@
 				)
 			)
 		)
-		(path "/14e12935-1d2d-44d8-ad09-b0a1fc8c606e")
 		(sheetname "/")
 		(sheetfile "macropad.kicad_sch")
 		(attr smd)
@@ -1193,20 +486,363 @@
 			)
 			(fill no)
 			(layer "Edge.Cuts")
-			(uuid "929ceb51-69a8-4fd1-a1e0-4187b6ff30f3")
+			(uuid "3bcd5416-b0f9-4e2c-8f33-5ed01275ff13")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 2.5 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "e40aa3eb-0400-4c2f-9014-3a78ea281ebb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
 		)
 		(embedded_fonts no)
 	)
 	(footprint "plate:Untitled"
 		(layer "F.Cu")
-		(uuid "e00435f7-1f5b-457e-9cce-8b6bacbbb6c1")
-		(at 107.29 15.42)
+		(uuid "5359c87c-51d9-43d6-95f4-86e26398a978")
+		(at 202.34 98.82)
+		(property "Reference" "SW18"
+			(at 0 -0.5 0)
+			(unlocked yes)
+			(layer "F.SilkS")
+			(uuid "dc739f5a-15cc-48c1-ae2b-a9e41b648c46")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 0 1 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "72f28bf1-b423-4beb-b5db-eca6b22d9a66")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fbec2485-d9ee-4c1d-ae5e-9dba3747217c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6807d72a-73f2-44c1-88f1-3bcda9ad5e57")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(sheetname "/")
+		(sheetfile "macropad.kicad_sch")
+		(attr smd)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_rect
+			(start -7 -7)
+			(end 7 7)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "Edge.Cuts")
+			(uuid "1b8efc85-a808-49a3-b29a-fc8849e7da04")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 2.5 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "94f9d7b5-6691-4531-af9b-1b8a323c2fc0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(footprint "plate:Untitled"
+		(layer "F.Cu")
+		(uuid "6666e7dd-2d8d-403e-920a-613b29370391")
+		(at 180.84 60.72)
+		(property "Reference" "SW5"
+			(at 0 -0.5 0)
+			(unlocked yes)
+			(layer "F.SilkS")
+			(uuid "da6ee0b3-046c-4615-951d-c55118e1dabc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 0 1 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "42163ceb-97a8-4b6d-bf07-6a6fec039f1c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fe671c37-2370-4318-81aa-011a8ed6d6c9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "81a2430b-0e05-4858-aefe-07eec6f4691b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(sheetname "/")
+		(sheetfile "macropad.kicad_sch")
+		(attr smd)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_rect
+			(start -7 -7)
+			(end 7 7)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "Edge.Cuts")
+			(uuid "7d139f6a-f936-4dc3-8b14-a0bda58254a9")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 2.5 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "bc0178e6-65e6-41ce-8955-d46b2ece3a2e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(footprint "plate:Untitled"
+		(layer "F.Cu")
+		(uuid "7189b538-44cd-4149-8600-6b08419f9a9a")
+		(at 142.59 98.82)
+		(property "Reference" "SW12"
+			(at 0 -0.5 0)
+			(unlocked yes)
+			(layer "F.SilkS")
+			(uuid "4b3fa981-4eea-4968-af58-b67264896afe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 0 1 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "2af45d5b-d7ba-41f5-b628-816a6632240e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "965a1c97-bda5-4180-9a5d-d444e20a55a7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "26f4f78f-0198-40cb-91b5-f48344fc9eeb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(sheetname "/")
+		(sheetfile "macropad.kicad_sch")
+		(attr smd)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_rect
+			(start -7 -7)
+			(end 7 7)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "Edge.Cuts")
+			(uuid "8bbe9fae-81d1-49a9-9636-212cb0bd7dec")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 2.5 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "79982997-435c-49dc-85b4-d9decb73ec92")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(footprint "plate:Untitled"
+		(layer "F.Cu")
+		(uuid "8be06647-dcdb-421f-a96f-a3e8849d3ae4")
+		(at 142.59 79.77)
+		(property "Reference" "SW11"
+			(at 0 -0.5 0)
+			(unlocked yes)
+			(layer "F.SilkS")
+			(uuid "08ef0b6f-f681-4de6-8771-c58222cf75cd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 0 1 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "bf39f4de-eb67-49b3-ba0a-4080c9549198")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "786d349a-e756-4f6d-8697-05c0fcb841d4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b4236644-6b2f-4b6c-aca0-7fea9f0837b1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(sheetname "/")
+		(sheetfile "macropad.kicad_sch")
+		(attr smd)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_rect
+			(start -7 -7)
+			(end 7 7)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "Edge.Cuts")
+			(uuid "362b9fa6-cc2f-4d14-9306-bd811547b2b1")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 2.5 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "5c154bcd-daa7-4b65-a96e-157dfeea6145")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(footprint "plate:Untitled"
+		(layer "F.Cu")
+		(uuid "9878c254-0b51-4ad7-8701-2c97363de7ab")
+		(at 161.84 60.72)
 		(property "Reference" "SW4"
 			(at 0 -0.5 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(hide yes)
-			(uuid "c01fe754-f39d-459d-bf7b-e3f5a51c8867")
+			(uuid "b87298c5-a3b6-4c1c-803d-92d13a7d3394")
 			(effects
 				(font
 					(size 1 1)
@@ -1218,8 +854,7 @@
 			(at 0 1 0)
 			(unlocked yes)
 			(layer "F.Fab")
-			(hide yes)
-			(uuid "e499ee09-d341-47d1-bb92-36750baf57d6")
+			(uuid "9c174805-5d43-4b73-9f9a-465d2692ebf7")
 			(effects
 				(font
 					(size 1 1)
@@ -1232,7 +867,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "061badeb-154c-4a41-a5d3-1cbac2c57e4b")
+			(uuid "d5e46ba5-05bc-4114-a199-9142cedc7580")
 			(effects
 				(font
 					(size 1 1)
@@ -1245,7 +880,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "67e9ae99-5120-4da0-85d2-cb8f2eb715ff")
+			(uuid "7fa52d49-b274-4ee4-a6fd-ee51bd8623c5")
 			(effects
 				(font
 					(size 1 1)
@@ -1253,7 +888,6 @@
 				)
 			)
 		)
-		(path "/5486d457-de1c-4231-9b19-3e09db5048f1")
 		(sheetname "/")
 		(sheetfile "macropad.kicad_sch")
 		(attr smd)
@@ -1267,20 +901,31 @@
 			)
 			(fill no)
 			(layer "Edge.Cuts")
-			(uuid "e9eb278a-533a-48ed-a8b1-21cebb7ad01a")
+			(uuid "52d96d26-e1fe-4f93-ba9b-aca71526faf9")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 2.5 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "6c54be5f-4a63-4801-8eab-28fa4f29b714")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
 		)
 		(embedded_fonts no)
 	)
 	(footprint "plate:Untitled"
 		(layer "F.Cu")
-		(uuid "fa019661-6a26-4edb-884c-799f99319cae")
-		(at 148.015 36.41)
-		(property "Reference" "SW17"
+		(uuid "9f815066-cad6-4e60-b551-012b58b959a4")
+		(at 161.84 79.77)
+		(property "Reference" "SW13"
 			(at 0 -0.5 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(hide yes)
-			(uuid "e4dc94cc-c05f-4cb4-ba5f-e782e9053a1c")
+			(uuid "904ec06e-01e7-4a63-ba9b-df894bbad9c3")
 			(effects
 				(font
 					(size 1 1)
@@ -1292,8 +937,7 @@
 			(at 0 1 0)
 			(unlocked yes)
 			(layer "F.Fab")
-			(hide yes)
-			(uuid "b598322b-3988-468f-8def-e9f6e6334d9b")
+			(uuid "b3dda228-fb2b-47f6-9d62-f4a9ba84624c")
 			(effects
 				(font
 					(size 1 1)
@@ -1306,7 +950,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "97c8fa30-ce44-44c7-b671-3496832b980b")
+			(uuid "573c7c01-35e8-4333-949b-1a69c5f80076")
 			(effects
 				(font
 					(size 1 1)
@@ -1319,7 +963,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a8442f13-2d55-4c49-bcb2-0ca0b4f39a63")
+			(uuid "5bc6dd3b-8ff7-49cf-95c8-550af1e9712a")
 			(effects
 				(font
 					(size 1 1)
@@ -1327,7 +971,6 @@
 				)
 			)
 		)
-		(path "/dc9ff53c-4319-4fca-819a-1a916e1785da")
 		(sheetname "/")
 		(sheetfile "macropad.kicad_sch")
 		(attr smd)
@@ -1341,20 +984,31 @@
 			)
 			(fill no)
 			(layer "Edge.Cuts")
-			(uuid "d57f55d4-9e09-41fb-80a9-b47f01a7dd77")
+			(uuid "5b6fe2e1-d9fa-4a25-a340-7973c29bb1a4")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 2.5 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "dd1c0ef9-9637-4306-a4b5-736d3281175f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
 		)
 		(embedded_fonts no)
 	)
 	(footprint "plate:Untitled"
 		(layer "F.Cu")
-		(uuid "fbfc4541-9973-43ae-9d6e-8f82e467c8c3")
-		(at 64.88 51.26)
+		(uuid "adbbae98-7dfc-4e10-a214-a1a200dcb852")
+		(at 123.34 98.82)
 		(property "Reference" "SW10"
 			(at 0 -0.5 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(hide yes)
-			(uuid "1329963c-7603-4164-a702-1ffb3b0fc80d")
+			(uuid "2af20af9-13c0-4d4f-9da8-9610445e14af")
 			(effects
 				(font
 					(size 1 1)
@@ -1366,8 +1020,7 @@
 			(at 0 1 0)
 			(unlocked yes)
 			(layer "F.Fab")
-			(hide yes)
-			(uuid "87db88f8-a4a5-47fc-a7d6-3c8968747940")
+			(uuid "bfda8f69-40ad-4bf3-b482-d4e8db2c35eb")
 			(effects
 				(font
 					(size 1 1)
@@ -1380,7 +1033,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c4a2cec9-6988-47da-b5d3-f773ab6a1ecd")
+			(uuid "c2053547-e0b8-4df4-832e-926e3c441a77")
 			(effects
 				(font
 					(size 1 1)
@@ -1393,7 +1046,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5e64eab1-0ee2-4c00-a424-6a1fe0f09a1d")
+			(uuid "e99a3ece-c899-4bf6-a34c-3d28e3af3a12")
 			(effects
 				(font
 					(size 1 1)
@@ -1401,7 +1054,6 @@
 				)
 			)
 		)
-		(path "/d18044ac-3936-43ac-8c6a-d93330dd61b0")
 		(sheetname "/")
 		(sheetfile "macropad.kicad_sch")
 		(attr smd)
@@ -1415,20 +1067,530 @@
 			)
 			(fill no)
 			(layer "Edge.Cuts")
-			(uuid "5d4f6e59-52de-47bf-afb0-3cde06af9262")
+			(uuid "25d10c34-ac0d-45fe-8417-2fbaa6da6ac0")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 2.5 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "35e4bbe8-a28e-4425-8360-3df7a727e7a9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(footprint "plate:Untitled"
+		(layer "F.Cu")
+		(uuid "b4f72613-88f5-4bb8-87f1-a88d4231890a")
+		(at 180.84 79.77)
+		(property "Reference" "SW15"
+			(at 0 -0.5 0)
+			(unlocked yes)
+			(layer "F.SilkS")
+			(uuid "a05ab0b2-fd13-479c-83f2-ff5eb74198e0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 0 1 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "06e04c0f-ec02-41c9-bd6c-33dfd6d543ff")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e443d6f4-02c7-444e-a243-6d62f9a67e64")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d2f5fd0f-ef6b-45ed-b69c-90ca5d92821f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(sheetname "/")
+		(sheetfile "macropad.kicad_sch")
+		(attr smd)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_rect
+			(start -7 -7)
+			(end 7 7)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "Edge.Cuts")
+			(uuid "63c08890-469e-407f-ae53-ad7e715d2c66")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 2.5 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "118d2f01-6db1-4512-905a-91734b871455")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(footprint "plate:Untitled"
+		(layer "F.Cu")
+		(uuid "d7c5c8ab-09b2-4c7a-9f0f-35f89664c3b7")
+		(at 202.34 60.72)
+		(property "Reference" "SW6"
+			(at 0 -0.5 0)
+			(unlocked yes)
+			(layer "F.SilkS")
+			(uuid "ea2c2f67-2d00-4daf-9147-addd151768f1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 0 1 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "e94ad80a-2dae-4397-9b68-e49ae199d767")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0276fbf7-daa6-4f8e-b0ae-5e30ecabf554")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d3b4c09c-ca24-4d2c-b00f-256965ee71e9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(sheetname "/")
+		(sheetfile "macropad.kicad_sch")
+		(attr smd)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_rect
+			(start -7 -7)
+			(end 7 7)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "Edge.Cuts")
+			(uuid "bafda5d6-079a-40de-82fb-e4b428b3aa5f")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 2.5 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "55365d0c-ab56-4e6b-8721-27e32a1231a1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(footprint "plate:Untitled"
+		(layer "F.Cu")
+		(uuid "e9b78f24-2d68-4f3a-9a67-512f813c368a")
+		(at 123.34 79.77)
+		(property "Reference" "SW9"
+			(at 0 -0.5 0)
+			(unlocked yes)
+			(layer "F.SilkS")
+			(uuid "ece2b3ad-1eba-4cee-a7ce-e19145911344")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 0 1 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "0573c399-5a41-484f-8164-a90e5d5615c6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "27e94438-4ed8-422f-b15f-250dfbb9c05e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "55859e31-8ba9-4817-a9db-fd7aa65ce775")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(sheetname "/")
+		(sheetfile "macropad.kicad_sch")
+		(attr smd)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_rect
+			(start -7 -7)
+			(end 7 7)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "Edge.Cuts")
+			(uuid "cde103d8-f747-45aa-8753-40c08c20db7f")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 2.5 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "13e0582d-9ded-4c8d-b07f-d464667f6ef9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(footprint "plate:Untitled"
+		(layer "F.Cu")
+		(uuid "ec962c48-9f54-4beb-84c7-41cc208d55d3")
+		(at 142.59 60.72)
+		(property "Reference" "SW3"
+			(at 0 -0.5 0)
+			(unlocked yes)
+			(layer "F.SilkS")
+			(uuid "106d146b-a2d7-431c-9bd2-1deaa73d9ba5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 0 1 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "5a74b38d-b291-4171-9132-ee3529824538")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0d8d626e-6e9b-4116-a663-5c846d4adf92")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9fe292cf-0c28-40c5-8f3d-e5524837bc90")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(sheetname "/")
+		(sheetfile "macropad.kicad_sch")
+		(attr smd)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_rect
+			(start -7 -7)
+			(end 7 7)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "Edge.Cuts")
+			(uuid "580c25eb-ea84-4428-a5ce-1ea561f58539")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 2.5 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "fffa5cc8-88ff-4198-9dab-668637e0c1ed")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(footprint "plate:Untitled"
+		(layer "F.Cu")
+		(uuid "f94334ed-623a-48de-9a5d-0704b67fafee")
+		(at 202.34 79.77)
+		(property "Reference" "SW17"
+			(at 0 -0.5 0)
+			(unlocked yes)
+			(layer "F.SilkS")
+			(uuid "13db6f3e-5ea8-46cc-b4f4-155339eb63a0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 0 1 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "82af23e7-b2d3-45ad-96af-80c8c1c3743b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dbe4b474-e64f-4ef2-94f3-3cad1ce13f6b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7512cc21-e415-4cb2-b7b8-a86d2a83a9ad")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(sheetname "/")
+		(sheetfile "macropad.kicad_sch")
+		(attr smd)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_rect
+			(start -7 -7)
+			(end 7 7)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "Edge.Cuts")
+			(uuid "1f0a3da4-583a-4234-9d3a-5fa7a13745a4")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 2.5 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "cf30eee5-7942-4464-8450-2756d55298c3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(footprint "plate:Untitled"
+		(layer "F.Cu")
+		(uuid "fc2c510e-99e9-4284-904e-e69910717eac")
+		(at 104.4 98.82)
+		(property "Reference" "SW8"
+			(at 0 -0.5 0)
+			(unlocked yes)
+			(layer "F.SilkS")
+			(uuid "7808ed3a-e53a-4f7b-b73c-4ece708e677b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 0 1 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "9cb4989c-8d57-4206-8bbc-63e88ab440ac")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "750001d2-09ba-4b96-8743-0be8d1c3dbbd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a623b353-0c00-45c7-996e-fada2564d21b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(sheetname "/")
+		(sheetfile "macropad.kicad_sch")
+		(attr smd)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_rect
+			(start -7 -7)
+			(end 7 7)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "Edge.Cuts")
+			(uuid "91d933b6-29f4-4067-8130-8be651401f0a")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 2.5 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "37f2ef32-c2f4-40aa-960e-0e6f5078acb7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
 		)
 		(embedded_fonts no)
 	)
 	(gr_rect
-		(start 10 10)
-		(end 155 66.25)
+		(start 64.55 48)
+		(end 215 114.3)
 		(stroke
 			(width 0.05)
 			(type default)
 		)
 		(fill no)
 		(layer "Edge.Cuts")
-		(uuid "86e2d3ba-c776-45bd-a589-c75805d71e7c")
+		(uuid "cb3aa917-63cb-484e-910b-0d158bace258")
 	)
 	(embedded_fonts no)
 )
