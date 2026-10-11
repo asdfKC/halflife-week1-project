@@ -5,13 +5,13 @@ My components used are listed in BOM.md
 
 
  This is an image of the 3d view of the PCB
-<img width="1252" height="691" alt="image" src="https://github.com/user-attachments/assets/6a5b8083-c142-4fd9-b6fe-80be4ef79861" />
+<img width="1259" height="559" alt="image" src="https://github.com/user-attachments/assets/2f058ac7-d566-472c-ad9f-d72abdc83af8" />
 
 
 
 This is an image of the PCB Gerber files!
 
- <img width="684" height="299" alt="image" src="https://github.com/user-attachments/assets/57521186-ade6-4ead-8bfb-76745852437d" />
+<img width="797" height="342" alt="image" src="https://github.com/user-attachments/assets/45175c36-548a-4ae3-a1eb-59c8b084c98c" />
 
 
 This is my first pcb ever!
@@ -38,8 +38,7 @@ The firmware is in 'firmware/code.py.' It uses KMK on CircuitPython.
 
 A pretty basic and simple plate is included in the plate/ directory. It has 18 cutouts that match the PCB, each the size of a standard MX switch cutout. The outline is in plate/Plates/plate_Edge_Cuts.dxf
 
-<img width="1082" height="457" alt="image" src="https://github.com/user-attachments/assets/d48d8446-62fb-4e6d-9b3c-2df1205e1ee5" />
 
 I provided an STL file in the plate/ directory called plate.stl.
 
-<img width="689" height="256" alt="image" src="https://github.com/user-attachments/assets/386fa20f-ca0e-4a61-b1a2-2ef31c288db3" />
+<img width="635" height="293" alt="image" src="https://github.com/user-attachments/assets/b5e78658-d045-444d-a78f-d684c6bc8ebb" />
