@@ -40,3 +40,4 @@ A pretty basic and simple plate is included in the plate/ directory. It has 18 c
 
 <img width="1082" height="457" alt="image" src="https://github.com/user-attachments/assets/d48d8446-62fb-4e6d-9b3c-2df1205e1ee5" />
 
+I provided an STL file in the plate/ directory called plate.stl.
