@@ -14,7 +14,7 @@ This is an image of the PCB Gerber files!
 This is my first pcb ever!
 
 
-##GPIO USAGE:
+## GPIO USAGE:
 It starts at GPIO0
 
 0 = switch 1
@@ -23,7 +23,7 @@ It starts at GPIO0
 The middle goes in numerical order.
 
 
-##Switch plate :D
+## Switch plate :D
 
 A pretty basic and simple plate is included in the plate/ directory. It has 18 cutouts that match the PCB, each the size of a standard MX switch cutout. The outline is in plate/Plates/plate-Edge-Cuts.dxf
 
