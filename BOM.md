@@ -16,7 +16,7 @@
 | [outemu Brown Switches,3 Pin Tactile/RGB/Dustproof Switches for Mechanical Gaming Keyboard - Compatible with Cherry MX](https://www.amazon.com/dp/B0DPNK8PVN?plpRedirect=mhFallback&ref=clp_hp_h_pc&th=1) | To press the buttons for the Macropad of course! I found some on Amazon but they come with 2x as I need... | 1 | $11.99 | $11.99 | [Amazon](https://www.amazon.com/dp/B0DPNK8PVN?plpRedirect=mhFallback&ref=clp_hp_h_pc&th=1) |
 | [Adafruit Industries Translucent Keycaps for MX Compatible Switches - 10 pack](https://www.microcenter.com/product/636276/adafruit-industries-translucent-keycaps-for-mx-compatible-switches-10-pack) | Aesthethics! | 2 | $2.99 | $5.98 | [Microcenter](https://www.microcenter.com/product/636276/adafruit-industries-translucent-keycaps-for-mx-compatible-switches-10-pack) |
 | **Parts subtotal** | — | — | — | **$20.96** | — |
-| **Tax & shipping** | — | — | — | **$1.13** | — |
-| **Total** | — | — | — | **$22.09** | — |
+| **Tax & shipping** | — | — | — | **$9.30** | — |
+| **Total** | — | — | — | **$30.26** | — |
 
-$7.91 left of the tier's funding.
+**$0.26 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
