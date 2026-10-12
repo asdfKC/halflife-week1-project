@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> i havent figureed otu what to build at the time of the writing of this description so like
+> An 18-key macropad built on a Raspberry Pi Pico with direct-wired Cherry MX-style switches, KMK firmware, and a 3D-printed switch plate. Designed in KiCad.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
