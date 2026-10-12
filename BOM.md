@@ -16,7 +16,7 @@
 | [outemu Brown Switches for Mechanical Keyboard, 20-Pack, 3-Pin Tactile](https://www.amazon.com/Outemu-Gaote-Switches-Tactile-Dustproof/dp/B0888JHM58?th=1) | To press the buttons for the Macropad of course! I found some on Amazon but they come with 2x as I need... | 1 | $8.99 | $8.99 | [Amazon](https://www.amazon.com/Outemu-Gaote-Switches-Tactile-Dustproof/dp/B0888JHM58?th=1) |
 | [Adafruit Industries Translucent Keycaps for MX Compatible Switches - 10 pack](https://www.microcenter.com/product/636276/adafruit-industries-translucent-keycaps-for-mx-compatible-switches-10-pack) | Aesthethics! | 2 | $2.99 | $5.98 | [Microcenter](https://www.microcenter.com/product/636276/adafruit-industries-translucent-keycaps-for-mx-compatible-switches-10-pack) |
 | **Parts subtotal** | — | — | — | **$17.96** | — |
-| **Tax & shipping** | — | — | — | **$9.30** | — |
-| **Total** | — | — | — | **$27.26** | — |
+| **Tax & shipping** | — | — | — | **$9.05** | — |
+| **Total** | — | — | — | **$27.01** | — |
 
-$2.74 left of the tier's funding.
+$2.99 left of the tier's funding.
