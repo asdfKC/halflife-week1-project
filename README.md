@@ -42,3 +42,9 @@ A pretty basic and simple plate is included in the plate/ directory. It has 18 c
 I provided an STL file in the plate/ directory called plate.stl.
 
 <img width="635" height="293" alt="image" src="https://github.com/user-attachments/assets/b5e78658-d045-444d-a78f-d684c6bc8ebb" />
+
+
+
+### Warnings
+
+There are stray copper traces; however, they are dead and do not short the board in any way. 
