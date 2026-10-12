@@ -21,12 +21,15 @@ This is my first pcb ever!
 It starts at GPIO0
 
 
-| Switch | GPIO |
-|---|---|
-| 1 | GP0 |
-| 2 | GP1 |
-| ... | ... |
-| 18 | GP17 |
+## Key layout
+
+| | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 |
+|---|---|---|---|---|---|---|
+| **Row 1** | Ctrl+C | Ctrl+V | Ctrl+X | Ctrl+Z | Super+L | Mute |
+| **Row 2** | Print Screen | F11 | Vol− | Vol+ | Up | Enter |
+| **Row 3** | Previous | Play/Pause | Next | Left | Down | Right |
+
+Switches are numbered SW1–SW18 and wired to GP0–GP17. Row 1 is SW1–SW6, row 2 is SW7, SW9, SW11, SW13, SW15, SW17, and row 3 is SW8, SW10, SW12, SW14, SW16, SW18.
 
 The middle goes in numerical order.
 
