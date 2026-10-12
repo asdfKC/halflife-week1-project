@@ -19,7 +19,14 @@ keyboard.matrix = KeysScanner(pins=PINS, value_when_pressed=False)
 keyboard.keymap = [[
     # this part is just cringe
     # I EVEN LET YOU PLAY VIDEO GAMES WITH ARROW KEYS!!!!!
-    KC.LCTRL(KC.C), KC.LCTRL(KC.V), KC.LCTRL(KC.X), KC.LCTRL(KC.Z), KC.LGUI(KC.L), KC.MUTE, KC.VOLU, KC.VOLD, KC.MPLY, KC.MNXT, KC.MPRV, KC.PSCR, KC.F11, KC.UP, KC.DOWN, KC.LEFT, KC.RIGHT, KC.ENTER
+    KC.LCTRL(KC.C), KC.LCTRL(KC.V), KC.LCTRL(KC.X),
+    KC.LCTRL(KC.Z), KC.LGUI(KC.L), KC.MUTE, 
+    KC.PSCR, KC.MPRV, 
+    KC.F11, KC.MPLY,
+    KC.VOLD,  KC.MNXT,
+    KC.VOLU, KC.LEFT,
+    KC.UP, KC.DOWN,
+    KC.ENTER, KC.RIGHT    
 ]]
 
 
