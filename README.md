@@ -43,7 +43,7 @@ The middle goes in numerical order.
 The firmware is in 'firmware/code.py.' It uses KMK on CircuitPython.
 
 ## FLASHING INSTRUCTIONS
-firmware/FLASHING.md
+firmware/FLASHINSTRUCTIONS.md
 
 ## Switch plate :D
 
