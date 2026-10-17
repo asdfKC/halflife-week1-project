@@ -1,7 +1,7 @@
 ## ANY BUTTONS THAT ARE PROGRAMMED TO USE THE SUPER KEY WILL ONLY RUN ON LINUX!!!
 
 import board
-import kmk.kmk_keyboard import KMKKeyboard
+from kmk.kmk_keyboard import KMKKeyboard
 from kmk.keys import KC
 from kmk.scanners.keypad import KeysScanner
 #All these imports are yellowed out because my computer doesn't have the libraries, the documentation says when I get the PICO I need to copy the folders over, which makes sense.
