@@ -1,3 +1,9 @@
+# Final design
+<img width="1532" height="855" alt="image" src="https://github.com/user-attachments/assets/03e29887-a56f-4df1-a9cd-f0031c213dc3" />
+
+
+
+
 ### halflife-week1-project
 For this project, I made a Macropad!
 
